@@ -1,0 +1,20 @@
+{
+  "name": "christmas-list",
+  "version": "1.0.0",
+  "description": "Share your Christmas list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Owloid/christmas-list.git"
+  },
+  "author": "Jarett Lee",
+  "email": "jarett.lee.pi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Owloid/christmas-list/issues"
+  },
+  "homepage": "https://github.com/Owloid/christmas-list#readme"
+}
